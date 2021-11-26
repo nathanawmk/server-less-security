@@ -1,7 +1,7 @@
 # server-less-security
 Serverless Security Guides
 
-Protecting Serverless Applications
+**Protecting Serverless Applications**
 
 Effective serverless security focuses on ensuring code integrity, tight permissions and behavioral analysis.
 
@@ -11,7 +11,7 @@ Vulnerability scanning: Ensure code and infrastructure-as-code template integrit
 
 Runtime protection: Use runtime protection to detect malicious event inputs and anomalous function behavior, and limit as necessary each function’s ability to access files, hosts, the internet and spawn child processes.
 
-SOURCE: https://www.paloaltonetworks.com/cyberpedia/what-is-serverless-security
+_SOURCE: https://www.paloaltonetworks.com/cyberpedia/what-is-serverless-security_
 
 Organized in order of risk factor, with SAS-1 being the most critical, the list breaks down as the following:
 
@@ -39,4 +39,4 @@ SAS-11: Obsolete Functions, Cloud Resources and Event Triggers
 
 SAS-12: Cross-Execution Data Persistency
 
-SOURCE: https://cloudsecurityalliance.org/blog/2019/02/11/critical-risks-serverless-applications/
+_SOURCE: https://cloudsecurityalliance.org/blog/2019/02/11/critical-risks-serverless-applications/_
