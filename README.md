@@ -16,16 +16,27 @@ SOURCE: https://www.paloaltonetworks.com/cyberpedia/what-is-serverless-security
 Organized in order of risk factor, with SAS-1 being the most critical, the list breaks down as the following:
 
 SAS-1: Function Event Data Injection
+
 SAS-2: Broken Authentication
+
 SAS-3: Insecure Serverless Deployment Configuration
+
 SAS-4: Over-Privileged Function Permissions & Roles
+
 SAS-5: Inadequate Function Monitoring and Logging
+
 SAS-6: Insecure Third-Party Dependencies
+
 SAS-7: Insecure Application Secrets Storage
+
 SAS-8: Denial of Service & Financial Resource Exhaustion
+
 SAS-9: Serverless Business Logic Manipulation
+
 SAS-10: Improper Exception Handling and Verbose Error Messages
+
 SAS-11: Obsolete Functions, Cloud Resources and Event Triggers
+
 SAS-12: Cross-Execution Data Persistency
 
 SOURCE: https://cloudsecurityalliance.org/blog/2019/02/11/critical-risks-serverless-applications/
